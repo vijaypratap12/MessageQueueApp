@@ -1,0 +1,12 @@
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\obj\Debug\net8.0\MessageQueueApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\obj\Debug\net8.0\MessageQueueApp.Business.AssemblyInfoInputs.cache
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\obj\Debug\net8.0\MessageQueueApp.Business.AssemblyInfo.cs
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\obj\Debug\net8.0\MessageQueueApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\bin\Debug\net8.0\MessageQueueApp.Business.deps.json
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\bin\Debug\net8.0\MessageQueueApp.Business.dll
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\bin\Debug\net8.0\MessageQueueApp.Business.pdb
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\obj\Debug\net8.0\MessageQueueApp.Business.csproj.AssemblyReference.cache
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\obj\Debug\net8.0\MessageQueueApp.Business.dll
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\obj\Debug\net8.0\refint\MessageQueueApp.Business.dll
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\obj\Debug\net8.0\MessageQueueApp.Business.pdb
+C:\Users\SYSADMIN\source\repos\MessageQueueAppSolution\MessageQueueApp.Business\obj\Debug\net8.0\ref\MessageQueueApp.Business.dll

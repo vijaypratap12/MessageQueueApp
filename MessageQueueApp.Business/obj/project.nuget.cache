@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtkiMCDbClw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\MessageQueueApp.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SYSADMIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\SYSADMIN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

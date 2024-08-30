@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA670696-BA78-4AE5-BFF3-25328281AE5B}|MessageQueueApp.Tests\\MessageQueueApp.Tests.csproj|c:\\users\\sysadmin\\source\\repos\\messagequeueappsolution\\messagequeueapp.tests\\consumertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA670696-BA78-4AE5-BFF3-25328281AE5B}|MessageQueueApp.Tests\\MessageQueueApp.Tests.csproj|solutionrelative:messagequeueapp.tests\\consumertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|c:\\users\\sysadmin\\source\\repos\\messagequeueappsolution\\messagequeueapp.business\\imessagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|solutionrelative:messagequeueapp.business\\imessagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|c:\\users\\sysadmin\\source\\repos\\messagequeueappsolution\\messagequeueapp.business\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|solutionrelative:messagequeueapp.business\\consumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|c:\\users\\sysadmin\\source\\repos\\messagequeueappsolution\\messagequeueapp.business\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|solutionrelative:messagequeueapp.business\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|c:\\users\\sysadmin\\source\\repos\\messagequeueappsolution\\messagequeueapp.business\\messagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|solutionrelative:messagequeueapp.business\\messagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|c:\\users\\sysadmin\\source\\repos\\messagequeueappsolution\\messagequeueapp.business\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|solutionrelative:messagequeueapp.business\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83ED0636-23C0-4CA6-8F54-27678B3CE65A}|MessageQueueApp\\MessageQueueApp.csproj|c:\\users\\sysadmin\\source\\repos\\messagequeueappsolution\\messagequeueapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83ED0636-23C0-4CA6-8F54-27678B3CE65A}|MessageQueueApp\\MessageQueueApp.csproj|solutionrelative:messagequeueapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA670696-BA78-4AE5-BFF3-25328281AE5B}|MessageQueueApp.Tests\\MessageQueueApp.Tests.csproj|c:\\users\\sysadmin\\source\\repos\\messagequeueappsolution\\messagequeueapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA670696-BA78-4AE5-BFF3-25328281AE5B}|MessageQueueApp.Tests\\MessageQueueApp.Tests.csproj|solutionrelative:messagequeueapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|c:\\users\\sysadmin\\source\\repos\\messagequeueappsolution\\messagequeueapp.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94EA18B-71E5-40A2-B7CD-4E08D84097F7}|MessageQueueApp.Business\\MessageQueueApp.Business.csproj|solutionrelative:messagequeueapp.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsumerTests.cs",
+              "DocumentMoniker": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Tests\\ConsumerTests.cs",
+              "RelativeDocumentMoniker": "MessageQueueApp.Tests\\ConsumerTests.cs",
+              "ToolTip": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Tests\\ConsumerTests.cs",
+              "RelativeToolTip": "MessageQueueApp.Tests\\ConsumerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:22:56.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consumer.cs",
+              "DocumentMoniker": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\Consumer.cs",
+              "RelativeDocumentMoniker": "MessageQueueApp.Business\\Consumer.cs",
+              "ToolTip": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\Consumer.cs",
+              "RelativeToolTip": "MessageQueueApp.Business\\Consumer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwCcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:53:59.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\Producer.cs",
+              "RelativeDocumentMoniker": "MessageQueueApp.Business\\Producer.cs",
+              "ToolTip": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\Producer.cs",
+              "RelativeToolTip": "MessageQueueApp.Business\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:51:40.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageQueue.cs",
+              "DocumentMoniker": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\MessageQueue.cs",
+              "RelativeDocumentMoniker": "MessageQueueApp.Business\\MessageQueue.cs",
+              "ToolTip": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\MessageQueue.cs",
+              "RelativeToolTip": "MessageQueueApp.Business\\MessageQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:49:58.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMessageQueue.cs",
+              "DocumentMoniker": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\IMessageQueue.cs",
+              "RelativeDocumentMoniker": "MessageQueueApp.Business\\IMessageQueue.cs",
+              "ToolTip": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\IMessageQueue.cs",
+              "RelativeToolTip": "MessageQueueApp.Business\\IMessageQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:48:05.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\Message.cs",
+              "RelativeDocumentMoniker": "MessageQueueApp.Business\\Message.cs",
+              "ToolTip": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\Message.cs",
+              "RelativeToolTip": "MessageQueueApp.Business\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:46:53.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MessageQueueApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MessageQueueApp.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:42:15.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "MessageQueueApp.Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp.Business\\Class1.cs",
+              "RelativeToolTip": "MessageQueueApp.Business\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:41:40.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp\\Program.cs",
+              "RelativeDocumentMoniker": "MessageQueueApp\\Program.cs",
+              "ToolTip": "C:\\Users\\SYSADMIN\\source\\repos\\MessageQueueAppSolution\\MessageQueueApp\\Program.cs",
+              "RelativeToolTip": "MessageQueueApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:40:54.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
